@@ -1,4 +1,4 @@
-# movatc
+# movatic
 
 ## Folder Structure
 
@@ -20,4 +20,6 @@ The task to be achieved is found [here](https://docs.google.com/document/d/1oRB6
 - Although I'm more skilled in backend (Python, PHP) programming, I was able to complete this task in more hours than specified in the document.
 
 ## Next Steps
-
+- Get detailed understanding of the platform features. This will include list of capabilities we intend to give our bikeshare operator. 
+- Create a list of design goals. Here we will answer questions like how we intend for bikeshare operator to access these functionalities, how fast can they gain access? Does he need to be a registered user to gain access? etc.
+- Scope features into deliverables and estimate timelines for each deliverable.
